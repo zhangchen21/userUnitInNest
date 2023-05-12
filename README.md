@@ -26,6 +26,13 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+This Repo is a user-unit, which give you the power to start a user system in your project as soon as possible. Referenced https://github.com/koala-coding/nest-blog.
+
+Now it enables:
+
+<img width="300" alt="image" src="https://github.com/zhangchen21/userUnitInNest/assets/75530249/ab26b598-422d-47b3-b97f-4f62fd733dd1">
+
+
 ## Installation
 
 ```bash
@@ -45,29 +52,9 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## Open Docs
 
-```bash
-# unit tests
-$ npm run test
+Open http://localhost:3000/docs to use api_docs.
+Powered by swagger.
+<img width="872" alt="image" src="https://github.com/zhangchen21/userUnitInNest/assets/75530249/0bf85841-8b25-4aa3-afe3-b255c6e15703">
 
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
